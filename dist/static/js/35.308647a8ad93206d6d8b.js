@@ -1,0 +1,1 @@
+webpackJsonp([35],{YA3W:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={data:function(){return{}}},u=function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("\n    欢迎来到保险管理系统!!!\n")])},l=[],a={render:u,staticRenderFns:l},c=a,s=t("VU/8"),i=s(r,c,!1,null,null,null);n.default=i.exports}});
